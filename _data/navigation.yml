@@ -1,0 +1,48 @@
+# The following is the order of the links in the header of the website.
+#
+
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+
+main:
+  - title: "主页&目录"
+    url: /about/
+
+  - title: "痛点问题"
+    url: /why_autoaoi/
+
+  - title: "技术路线"
+    url: /how_autoaoi/
+
+  - title: "当前效果"
+    url: /autoaoi_demo/
+
+  - title: "未来规划"
+    url: /autoaoi_routingmap/
+
+  - title: "特别致谢&主要技术贡献"
+    url: /autoaoi_authors/
+
+  - title: "背景知识"
+    url: /autoaoi_background/
+
+  - title: "联系我"
+    url: /contact/
+
+#  - title: "Talks"
+#    url: /talks/
+#
+#  - title: "Teaching"
+#    url: /teaching/
+    
+#  - title: "Portfolio"
+#    url: /portfolio/
+#
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+
+    
+#  - title: "Guide"
+#    url: /markdown/
