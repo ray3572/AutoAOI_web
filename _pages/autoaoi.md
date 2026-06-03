@@ -11,7 +11,7 @@ redirect_from:
 # .
 ## V0.5版本技术方案预计2025年一季度以论文形式公开
 ## 特别致谢本项目的合作伙伴及赞助 [@南京大学集成电路学院 邹宁睦教授](https://zouningmu.github.io/)
-## [项目合作 or 技术交流 or 交个朋友](https://ray3572.github.io/contact/)
+## [项目合作 or 技术交流 or 交个朋友]({{ base_path }}/contact/)
 ## ===========================
 ## 关于AOI  
 <details>
@@ -25,7 +25,7 @@ redirect_from:
 机器视觉作为现代工业与技术的核心驱动力，在提升生产效率保障作业安全、推动智能制造及产业升级方面展现出了非凡的重要性和无限潜力。  
 
 <center>
-  <img src="https://ray3572.github.io/images/autoaoi/typical_aoi_system.png">
+  <img src="{{ base_path }}/images/autoaoi/typical_aoi_system.png">
 </center>
 
 什么是AOI  \n  
@@ -52,12 +52,12 @@ redirect_from:
 
 如图所示，AOI产品交付往往包括以下几个步骤：
 <center>
-  <img src="\images\/autoaoi\/AOI_deployment.png">
+  <img src="{{ base_path }}/images/autoaoi/AOI_deployment.png">
 </center>  
 
 其中，光学方案设计是检测算法适配的上游。良好的光学方案能够有效降低算法研发的难度、提升算法精度，从而节约开发时间。光学方案的设计效率对缩短产品交付周期、降低交付成本、提升利润起着关键作用。光学方案可调参数较多，包括光源分布、光源入射角度、光照强度、光源色温等。在AOI设备的交付过程中，光学方案设计往往消耗大量人工，带来巨大的成本。
 <center>
-  <img src="\images\/autoaoi\/light_params.png">
+  <img src="{{ base_path }}/images/autoaoi/light_params.png">
 </center>  
 
 光学方案设计阶段的自动化允许更少的人工参与，同时因为数据采集与初步算法验证并行，单次设计验证的时间周期也大大缩短。不仅仅是人力成本的优化，还包括差旅、配套人员成本的降低、客户满意度的提升
@@ -66,7 +66,7 @@ redirect_from:
 
 #### 打光打得好，下班下得早
 <center>
-  <img src="\images\/autoaoi\/decrease_deployment_cost.png">
+  <img src="{{ base_path }}/images/autoaoi/decrease_deployment_cost.png">
 </center>
 
 
@@ -81,17 +81,17 @@ redirect_from:
 
 #### 要让机器识别的准，就要用机器能理解的逻辑选择光学方案
 <center>
-  <img src="\images\/autoaoi\/machine_human.png">
+  <img src="{{ base_path }}/images/autoaoi/machine_human.png">
 </center> 
 
 #### AutoAOI比人工更快更准更稳定
 <center>
-  <img src="\images\/autoaoi\/autiaoi_vs_human.png">
+  <img src="{{ base_path }}/images/autoaoi/autiaoi_vs_human.png">
 </center>
 
 #### 整体方案示意图
 <center>
-  <img src="\images\/autoaoi\/overview.png">
+  <img src="{{ base_path }}/images/autoaoi/overview.png">
 </center>
 
 
@@ -99,19 +99,19 @@ redirect_from:
 ### 效果展示
 #### AutoAOI硬件配置
 <center>
-  <img src="\images\/autoaoi\/devices.png">
+  <img src="{{ base_path }}/images/autoaoi/devices.png">
 </center> 
 
 #### 晶圆缺陷打光过程
 <center>
-  <img src="\images\/autoaoi\/bilibili.png">
+  <img src="{{ base_path }}/images/autoaoi/bilibili.png">
 </center>  
 
 [播放链接](https://www.bilibili.com/video/BV1t4rPYKEBJ/)
 
 #### 最新版本性能更加优秀   
 <center>
-  <img src="\images\/autoaoi\/version_comparison.png">
+  <img src="{{ base_path }}/images/autoaoi/version_comparison.png">
 </center> 
 
 
