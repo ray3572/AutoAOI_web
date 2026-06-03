@@ -17,7 +17,7 @@ redirect_from:
 机器视觉作为现代工业与技术的核心驱动力，在提升生产效率保障作业安全、推动智能制造及产业升级方面展现出了非凡的重要性和无限潜力。  
 
 <center>
-  <img src="{{ base_path }}/images/autoaoi/typical_aoi_system.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/autoaoi/typical_aoi_system.png">
 </center>
 
 # 什么是AOI？  

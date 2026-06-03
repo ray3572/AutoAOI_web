@@ -14,7 +14,7 @@ redirect_from:
 # 主要技术贡献
 
 <div style="display: flex; align-items: left;">
-  <img src="{{ base_path }}/images/profile.jpg" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
   <p>雷天悟，南京大学硕士学历，8年AI算法产品研发经验，
      作为一线技术部门负责人先后服务于多家上市公司/上市排队公司，主导多款核心人工智能产品设计研发。
      曾获得多项人工智能千人级别赛事奖金，累计三十余万元。近年主要工作方向为工业缺陷检测，
@@ -23,14 +23,14 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: left;">
-  <img src="{{ base_path }}/images/authors/zzk.png" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/authors/zzk.png" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
   <p>曾梓康 ，南京大学集成电路学院在读硕士，机器人相关国家级奖项八项，主要研究方向为Robot control、circuit design、AI for Chips等机器人交叉领域，在大疆承办的Robomaster机甲大师赛中多次获得MVP称号
 
 </p>
 </div>
 
 <div style="display: flex; align-items: left;">
-  <img src="{{ base_path }}/images/authors/wyr.png" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/authors/wyr.png" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
   <p>王艺儒，本科就读于湘潭大学物理与光电工程学院，现为南京大学集成电路学院在读硕士研究生，具备扎实的微电子工艺与光学基础。曾参与英特尔中国创新中心QuartusII Modelsim联合FPGA时钟仿真验证项目。近期研究方向包括图像质量评估、图像异常检测等。
 </p>
 </div>

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <center>
-  <img src="{{ base_path }}/images/autoaoi/routingmap.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/autoaoi/routingmap.png">
 </center> 
 
 
